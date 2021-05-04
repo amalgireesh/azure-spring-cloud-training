@@ -102,7 +102,7 @@ curl https://start.spring.io/starter.tgz -d dependencies=web,data-jpa,mysql,clou
 
 ## Task 5 : Add Spring code to get the data from the database
 
-1. Navigate to the path `C:\Users\demouser\weather-service\src\main\java\com\example\demo`. Next to the `DemoApplication` class, create a `Weather.java` JPA entity:
+1. Navigate to the path `C:\Users\demouser\weather-service\src\main\java\com\example\demo`. Next to the `DemoApplication.java`, create a `Weather.java` JPA entity:
 
 ```java
 package com.example.demo;
